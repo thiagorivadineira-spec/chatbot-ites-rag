@@ -3,6 +3,8 @@
 
 #chatbot ignorando temas que no tienen que ver con ITES y respondiendo los que si
 
+Cálculo de costo simulado ($0.075 por cada 1 millón de tokens de entrada en Gemini Flash)
+
 
 #Instalación
 Clona o descarga este repositorio.
